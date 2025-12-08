@@ -1,7 +1,20 @@
-identify hardware sensor 
+identify hardware sensor for deployment 
 - dashcam for road data
 - antenna for satellite, aviation, location
 
-identify data
+identify type of data gathered
+- road data
+  - traffic signs, markers
+  - ongoing construction, obstruction
+- atmospheric
+  - satellite data
+  - location data - rtk, gnss
+  - aircraft data
+
 identify labour
+- drivers for dashcams
+- basic networking knowledge for antennas
+
 hosting requirements
+- professional driver license for dashcams
+- data + energy for backhaul
