@@ -1,20 +1,32 @@
 identify hardware sensor for deployment 
-- dashcam for road data
-- antenna for satellite, aviation, location
+- dashcam for road data- hivemapper, rovr, 375ai
+- antenna for satellite, aviation, location- geodnet, wingbits, onocoy, 4dsky, quake, silencio
 
 identify type of data gathered
 - road data
-  - traffic signs, markers
-  - ongoing construction, obstruction
+- traffic signs, markers
+- ongoing construction, obstruction
 - atmospheric
-  - satellite data
-  - location data - rtk, gnss
-  - aircraft data
+- satellite data
+- location data - rtk, gnss
+- aircraft data
 
 identify labour
 - drivers for dashcams
 - basic networking knowledge for antennas
 
 hosting requirements
+- government ID
 - professional driver license for dashcams
 - data + energy for backhaul
+- registration form to signal intent / consent
+
+onboarding
+- link government ID / driver license + digital / bank account
+- link device wallet / SN + vehicle registration + rideshare account 
+- get pics of IDs for host, vehicle, location data  
+- get videos of hardware setups
+- verify pics are clear/ details are legible
+
+
+
